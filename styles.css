@@ -1,3 +1,22 @@
 h1 {
     color: brown;
 }
+
+.Destaque_paragrafo_p {
+    color:aqua;
+}
+
+#destaque {
+    color: chartreuse;
+    font-weight: bolder;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.section-display {
+    display:flex;
+    justify-content: center;
+}
